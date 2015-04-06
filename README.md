@@ -1,6 +1,9 @@
 # scrum-workshop
-This repository includes Scrum / Agile workshops run at conferences, or trainings.
-The goal of this repository is to make the material as accessible as possible to any trainer.
+This repository includes Scrum / Agile workshops run by [Patricia Malanda](https://ch.linkedin.com/pub/patricia-malanda/3/492/752) and myself, [Mattia Albergante](https://www.linkedin.com/pub/mattia-albergante/26/a33/737) at conferences, or trainings.
+The short-term goal of this repository is to make our material as accessible as possible to any trainer.
+The longer-term dream would be to
+- Improve our trainings with suggestions / requests / pull requests (!!) from other contributors
+- Include third-party trainings
 
 ## Folder Structure 
 The workshops I carried out so far were mostly divided in two phases:
