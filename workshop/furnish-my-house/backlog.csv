@@ -1,0 +1,57 @@
+Title,Labels,Iteration,Description,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,URL,Owned By,Id
+I want my house floor to be light colored,Room preparation,,"AC:
++ The floor tint is light
++ It is not grey
++ The same color and material is used for kitchen and dining room",,,,,,,,,,,,
+I want my house walls to nicely fit with the color of the floor,Room preparation,,"AC:
++ Chromatic 'agreement' with the floor
++ The kitchen separation wall is painted white
++ Same colors, but potentially different materials, are used for the two rooms
+",,,,,,,,,,,,
+I want the house doors to be wooden-colored,Room preparation,,"AC:
++ The doors must look wooden-colored
++ The door material can be wood or something else
++ The door knobs must be of the same (light) color
++ All doors are 1200mm wide, 2100mm high",,,,,,,,,,,,
+I want a bright environment,Room preparation,,"AC:
++ The house captures sufficient light in mornings and afternoons
++ The total window surface should not be too much (cleaning reasons): max 10 square meters",,,,,,,,,,,,
+House air must be fresh,Room preparation,,"AC:
++ At least 3 windows per room are present
++ If a kitchen is planned, an air extractor must be placed",,,,,,,,,,,,
+I want to have breakfast with the family,Prepare meals,,"The daily ritual of breakfast is sacred!
+AC:
++ The table and fixed chairs must accomodate my family
++ Foldable chairs for a maximum of 8 people around the table should be available
+",,,,,,,,,,,,
+I want to be able to cook for many friends,Prepare meals,,"I frequently have dinner with friends, which implies having to cook for numerous people.
+AC:
++ There is a cooker
++ There is enough storage space for all the needed pottery ",,,,,,,,,,,,
+I want to avoid hand-cleaning my things,Prepare meals,,"I frequently have dinner with friends, and I don't want to hand clean all the dishes
+AC:
++ A solution that does not reduce too much the available space in the kitchen",,,,,,,,,,,,
+I want to have dinners with colleagues and friends,Social dinners,,"I like to invite colleagues and supervisors for dinner. I'd like my living room to be suitable for such occasions.
+AC:
++ Can accomodate up to 8 people
++ It looks elegant",,,,,,,,,,,,
+I want to avoid going back and forth to serve food,Social dinners,,"It is much more confortable having a table or something where to put food to be served, without needing to go back and forth.
+AC:
++ I have a place where to put food while serving it",,,,,,,,,,,,
+I want a cosy and relaxed atmosphere,Social dinners,,"AC:
++ There are some plants in the room
++ There is at least 4 plants for each of the following types: floor, table, hanging",,,,,,,,,,,,
+Food storage,Utilities,,"AC:
++ There are two separate spaces for freezer and fridge
++ Both leave at least 1m from ceiling
++ They cannot be visible",,,,,,,,,,,,
+I want a place where to keep towels in my kitchen,Utilities,,"AC:
++ It is not visible to guests
++ The color is not black ",,,,,,,,,,,,
+I want my washing machine to be placed in the kitchen,Utilities,,"As I have a small bathroom, I have to keep the washing machine in the kitchen.
+AC:
++ It is not visible to guests
++ The washing machine is 800mm wide, 700mm deep",,,,,,,,,,,,
+I want something for waste sorting,Utilities,,"AC:
++ It is not visible to guests
++ The front panel is wooden-colored",,,,,,,,,,,,

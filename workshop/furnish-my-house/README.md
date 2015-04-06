@@ -12,6 +12,15 @@ Each team is made of:
 You can play with the number of developers to make smaller, or bigger teams.
 
 ## The backlog
+The backlog is to be created by the trainer.
+I have put an example in the folder, and it can clearly be seen some traps usually found in user stories
+- Vague requirements (unclear color...)
+- Stories too big / too small
+It is interesting to note how participants have always made remarks about it, and therefore the role of the major stakeholder (see below) is very important.
+
+The example in the folder can be transformed to pdf with a simple tool provided by some amazing developer at Ableton : https://github.com/csk-ableton/pivotal2pdf
+
+The pdf from the csv in the current folder is already created and attached for your convenience.
 
 ## The tools
 Any tool can be used:
@@ -28,6 +37,10 @@ Once you get the permission, here's two rooms that should be publicly accessible
 - Dining room: http://kitchenplanner.ikea.com/JP/UI/Pages/VPUI.htm?Lang=en-GB&LoadDesign=0c34ffef707c4b9d88a8f7e227bf8751&UIContext=Kitchen&IsSharedDesign=1
 
 ## The roles
+### Main stakeholder
+I usually play this role.
+I am available to the PO for clarifications, for directions and for open feedback (also during demos).
+
 ### Product Owner
 - Writes, removes, add cards to product backlog
 - Cannot do the above for sprint backlog by his initiative
