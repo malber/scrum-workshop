@@ -27,10 +27,13 @@ Any tool can be used:
 -  Pre-created stickies, each with a piece of furniture (plus additional ones that can be created by the people)
 -  Legos
 
-I personally use the Ikea home planner: http://www.ikea.com/ms/en_JP/rooms_ideas/splashplanners.html 
-It's easy to use, it's engaging and we've all used it!
+I personally recommend:
+- the Ikea home planner at http://www.ikea.com/ms/en_JP/rooms_ideas/splashplanners.html 
+- roomsketcher.com
 
-Make sure you get the permission to use this from Ikea, of course, before using this.
+Both are easy to use, especially the latter. They are engaging and we've all faced the room designing challenge once!
+
+Make sure you get the permission to use this from the software owners before using them, of course.
 
 Once you get the permission, here's two rooms that should be publicly accessible and that you can use together with the backlog above
 - Kitchen: http://kitchenplanner.ikea.com/JP/UI/Pages/VPUI.htm?Lang=en-GB&LoadDesign=0c34ffef707c4b9d88a8f7e227bf8751&UIContext=Kitchen&IsSharedDesign=1
@@ -56,4 +59,27 @@ I am available to the PO for clarifications, for directions and for open feedbac
 - Can put and remove items into/from the room
 - Can make decisions for items non-clearly stated
 - Can always ask the PO for clarifications
+
+
+## The sting
+Now it's time to make it happen.
+Here's how this could work:
+- 5' planning
+-- Focus on a SMART goal built around the user stories you create
+-- The PO brings forward the top priorities but the team *must* challenge them. To make this easier, create traps such as requesting 1 story for the kitchen and all the others for the dining room. See if they pick it up.
+- 15' development, split in 3x5' sprints with a quick "daily" scrum of a couple of minutes
+-- Here the team starts building the rooms
+-- During the dev part, the SM will remove impediments such as software issues, lack of material etc.
+-- Any product unclarities/issues are noted down and brought to the daily scrum
+-- During the daily scrum the PO joins and if needed helps the team
+- 15' grooming and planning
+-- Usually they can be split, I keep them together as they help the team focus on the planning part
+-- Grooming: clarify points and answer questions regarding the top items in your backlog
+-- Planning: pick a meaningful sprint. Act as if it's your last one, make it count and provide value to the user.
+-- The value of the sprint must be higher than the sum of its user stories. A fragmented sprint is not going to give any value to our customer
+-- Try phrasing goals to enable the two points above. Something like "Allow our customer to invite his friends over for a take-away pizza".
+
+
+- 15' final retrospective. Only once at the end as it is really hard to convey the value of a retrospective in a short amount of time. Just like in real Scrum, don't rush kaizen.
+-- This is more for the global exercise. Collect improvement ideas / feedback. All of the above has been iterated at least twice and will still be iterated over and over as feedback comes in.
 
